@@ -1,3 +1,7 @@
+# DEPRECIATED 
+
+Check out [servelm](https://github.com/eeue56/servelm) instead, which uses this project as a basis for providing a server side framework for Elm.
+
 # Elm Http Server
 
 This server, along with rtfeldman's Elm stylesheets, means that we can now have full stack Elm support. At no point in the development of an application will you have to write anything other than Elm!
